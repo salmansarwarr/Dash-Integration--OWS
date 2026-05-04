@@ -1,4 +1,4 @@
-# ows-dash — Dash Provider for the Open Wallet Standard
+# OWS-Dash — Dash Provider for the Open Wallet Standard
 
 > A zero-trust, WASM-compatible Dash signer and provider implementing the Open Wallet Standard (OWS) with native InstantSend support for AI agents and multi-chain wallets.
 
